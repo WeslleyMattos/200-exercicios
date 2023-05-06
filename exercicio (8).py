@@ -1,0 +1,1 @@
+# 8	Escrever um algoritmo que lê o número de um funcionário, o número de horas por ele trabalhadas, o valor que recebe por hora, o número de filhos com idade inferior a 14 anos, a idade, o tempo de serviço do funcionário e o valor do salário família por filho. 
